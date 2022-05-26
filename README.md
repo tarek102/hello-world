@@ -1,17 +1,12 @@
-# hello-world
+# Hello Microverse
 
 > Setting up linters.
-
 
 ## Built With
 
 - HTML and CSS
 
-
-
 ## Getting Started
-
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -19,15 +14,11 @@ To get a local copy up and running follow these simple example steps.
 - Click on code and copy the link
 - Go to command line and type <git clone https://github.com/tarek102/hello-world.git>
 
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Tarek**
 
-- GitHub: [@tarek102]((https://github.com/tarek102))
-
+- GitHub: [@tarek102](https://github.com/tarek102)
 
 ## 🤝 Contributing
 
